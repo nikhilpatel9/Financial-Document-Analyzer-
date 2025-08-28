@@ -559,11 +559,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenAI](https://openai.com) for language model capabilities
 - [Serper](https://serper.dev) for web search functionality
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/financial-document-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/financial-document-analyzer/discussions)
-- **Email**: support@yourdomain.com
 
 ---
 
